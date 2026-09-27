@@ -7,7 +7,7 @@ Official technical repository for the proprietary **EUA (Elupon Universal Audio)
 This documentation specifies the **EUAL7** standard, providing fixed 2x data optimization for high-resolution 48kHz Stereo streams while ensuring zero bit-shifting synchronization risk.
 
 ## Technical Metadata & IANA Registration Info
-- **MIME Media Type:** `audio/prs.elupon-eua
+- **MIME Media Type:** `audio/prs.elupon-eua`
 - **File Extension:** `.eua`
 - **Magic Number (Signature):** `EUAL7` (`45 55 41 4C 37` in Hex)
 
